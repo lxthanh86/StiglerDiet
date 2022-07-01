@@ -1,0 +1,12 @@
+# Recommended dietary allowances suggested by the National Research Council in 1943.
+# This information is used in Stigler's diet problem.
+# Nutrient    RDA       Unit
+Calories         3      KiloCalories
+Protein	        70      grams
+Calcium	         0.8    grams
+Iron            12      milligrams
+VitaminA	       5      KiloInternationalUnits(KIU)
+Thiamine 	       1.8    milligrams
+Riboflavin       2.7    milligrams
+Niacin          18      milligrams
+AscorbicAcid    75      milligrams
